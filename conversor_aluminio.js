@@ -1,6 +1,6 @@
 let resistencia = 0
 
-let resistividade = 0.0172  //0,0172 ohms. mm²/m condutor de cobre//
+let resistividade = 0.0282  //0,0282 ohms. mm²/m condutor de aluminio//
 
 let comprimento = 1555
 

@@ -1,0 +1,4 @@
+git remote add origin https://github.com/vitorhcd/resistor.git (Nome do site)
+git branch -M main
+git push -u origin main
+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
